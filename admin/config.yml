@@ -1,5 +1,5 @@
 backend:
-  name: gizipp/ek.gizipp.com
+  name: github.com/gizipp/ek.gizipp.com
   branch: master
 
 publish_mode: editorial_workflow
